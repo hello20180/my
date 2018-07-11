@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HotPowerapp"
+  id="myeclipse.1492653782880"
+  context-root="/HotPowerapp"
+  j2ee-spec="5.0"
+  archive="HotPowerapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
